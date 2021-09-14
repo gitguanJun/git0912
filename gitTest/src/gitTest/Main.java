@@ -2,7 +2,7 @@ package gitTest;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("Main Test!!!");
+		System.out.println("Main Test!!!---command");
 	}
 
 }
